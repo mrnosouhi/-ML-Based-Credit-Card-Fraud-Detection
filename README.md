@@ -1,3 +1,3 @@
 # -ML-Based Credit Card Fraud Detection
 
-In this project, two separate fraudulent transaction detection tools were developed using Logistic Regression and Decision Tree classification algorithms. They are compared to identify the best parameters that result in higher accuracy and the most important features of the used datasets.
+In this project, two separate fraudulent transaction detection tools are developed using Logistic Regression and Decision Tree classification algorithms and dataset fraud_payment. They are compared to find the best parameters that result in higher accuracy and the most important features of the used datasets.
